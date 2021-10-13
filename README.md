@@ -5,11 +5,11 @@
 - 😄 Pronouns: He / Him
 - Student 
 - Working Student: Mobile App Developer
+
 ### OS: 
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iskandir&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iskandir&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Which Languages I am comfortable with:
 
@@ -22,6 +22,7 @@
 ## Version control / Developer communities:
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+
 
 ### 📫 How to reach me:
 
