@@ -26,6 +26,8 @@
 
 ## 📫 How to reach me:
 
-![https://www.linkedin.com/in/dennis-hasselbusch-7512391b5/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
--> https://www.linkedin.com/in/dennis-hasselbusch-7512391b5/
+<a href="https://www.linkedin.com/in/dennis-hasselbusch-7512391b5">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
 
