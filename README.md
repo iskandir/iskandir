@@ -1,6 +1,7 @@
 # Welcome to my page 👋
 
 ## About Me
+- Dennis
 - 27 years old 
 - 😄 Pronouns: He / Him
 - Student 
