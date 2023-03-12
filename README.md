@@ -1,7 +1,7 @@
 # Welcome to my page 👋
 
 ## About Me
-- 27 years old 
+- 29 years old 
 - 😄 Pronouns: He / Him
 - Software Developer: Full-time Embedded Developer / part-time Mobile App Developer
 
